@@ -1,0 +1,25 @@
+package Lab5.example1;
+
+/**
+ * Basic class for the message
+ *
+ * @author Dennis Sutov
+ * @version 11/11/2022
+ */
+public class Message {
+	    private String msg;
+	    
+	    public Message(String str){
+	        this.msg=str;
+	    }
+
+	    public String getMsg() {
+	        return msg;
+	    }
+
+	    public void setMsg(String str) {
+	        this.msg=str;
+	    }
+
+}
+

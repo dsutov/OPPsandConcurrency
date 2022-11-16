@@ -1,5 +1,13 @@
 package Lab4;
 
+/**
+ * Server listens for any clients
+ * Calls the worker thread when client connects
+ *
+ * @author Dennis Sutov
+ * @version 25/10/2022
+ */
+
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;

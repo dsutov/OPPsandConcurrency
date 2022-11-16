@@ -1,5 +1,12 @@
 package Lab4;
 
+/**
+ * Worker thread does all the processing
+ *
+ * @author Dennis Sutov
+ * @version 25/10/2022
+ */
+
 import java.io.FileInputStream;
 import java.io.InputStream;
 import java.io.OutputStream;

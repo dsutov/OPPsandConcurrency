@@ -1,5 +1,12 @@
 package Lab4;
 
+/**
+ * Server listens for any clients
+ *
+ * @author Dennis Sutov
+ * @version 25/10/2022
+ */
+
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.PrintWriter;
